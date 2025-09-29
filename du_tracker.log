@@ -1,0 +1,138 @@
+2025-09-29 17:18:48,033 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:18:48,037 - INFO - Starting order tracking for order: CM0002680507
+2025-09-29 17:18:54,859 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:19:05,320 - ERROR - Error tracking order: Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder*='order']"}
+  (Session info: chrome=140.0.7339.213); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   chromedriver                        0x00000001029f7274 cxxbridge1$str$ptr + 2882596
+1   chromedriver                        0x00000001029ef1a0 cxxbridge1$str$ptr + 2849616
+2   chromedriver                        0x0000000102519180 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73420
+3   chromedriver                        0x00000001025604c4 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 365072
+4   chromedriver                        0x00000001025a16c8 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631828
+5   chromedriver                        0x0000000102554188 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315092
+6   chromedriver                        0x00000001029bac54 cxxbridge1$str$ptr + 2635268
+7   chromedriver                        0x00000001029bde6c cxxbridge1$str$ptr + 2648092
+8   chromedriver                        0x000000010299c5d4 cxxbridge1$str$ptr + 2510724
+9   chromedriver                        0x00000001029be718 cxxbridge1$str$ptr + 2650312
+10  chromedriver                        0x000000010298dd7c cxxbridge1$str$ptr + 2451244
+11  chromedriver                        0x00000001029dddd4 cxxbridge1$str$ptr + 2779012
+12  chromedriver                        0x00000001029ddf54 cxxbridge1$str$ptr + 2779396
+13  chromedriver                        0x00000001029eedec cxxbridge1$str$ptr + 2848668
+14  libsystem_pthread.dylib             0x0000000184760c08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018475bba8 thread_start + 8
+
+2025-09-29 17:19:05,323 - INFO - Results saved to: order_tracking_20250929_171905.json
+2025-09-29 17:19:05,459 - INFO - Browser driver closed
+2025-09-29 17:20:42,602 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:20:42,604 - INFO - Starting order tracking for order: CM0002680507
+2025-09-29 17:20:50,840 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:20:52,397 - INFO - Entered order number: CM0002680507
+2025-09-29 17:20:53,046 - INFO - Entered mobile number: 0561716359
+2025-09-29 17:21:07,904 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:21:21,184 - WARNING - Could not find order status element
+2025-09-29 17:21:22,024 - INFO - Screenshot saved: order_tracking_1759152081.png
+2025-09-29 17:21:22,029 - INFO - Results saved to: order_tracking_20250929_172122.json
+2025-09-29 17:21:22,635 - INFO - Browser driver closed
+2025-09-29 17:22:26,548 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:22:26,553 - INFO - Starting order tracking for order: CM0002680507
+2025-09-29 17:22:34,078 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:22:35,175 - INFO - Entered order number: CM0002680507
+2025-09-29 17:22:35,926 - INFO - Entered mobile number: 0561716359
+2025-09-29 17:22:49,702 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:22:50,471 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/8aa7bd4665dd52d608fef9a552a28063
+2025-09-29 17:22:50,480 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108965450>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8aa7bd4665dd52d608fef9a552a28063
+2025-09-29 17:22:50,482 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108965590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8aa7bd4665dd52d608fef9a552a28063
+2025-09-29 17:22:50,488 - INFO - Browser driver closed
+2025-09-29 17:23:44,084 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:23:44,088 - INFO - Starting order tracking for order: CM0002680507
+2025-09-29 17:24:18,739 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:24:22,823 - INFO - Entered order number: CM0002680507
+2025-09-29 17:24:23,181 - INFO - Entered mobile number: 0561716359
+2025-09-29 17:24:36,493 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:24:49,613 - WARNING - Could not find order status element
+2025-09-29 17:24:50,517 - INFO - Screenshot saved: order_tracking_1759152289.png
+2025-09-29 17:24:50,520 - INFO - Results saved to: order_tracking_20250929_172450.json
+2025-09-29 17:24:51,188 - INFO - Browser driver closed
+2025-09-29 17:25:46,838 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:25:46,840 - INFO - Starting order tracking for order: CM0002680507
+2025-09-29 17:25:55,433 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:25:58,082 - INFO - Entered order number: CM0002680507
+2025-09-29 17:25:58,665 - INFO - Entered mobile number: 971561716359
+2025-09-29 17:26:13,844 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:26:27,118 - WARNING - Could not find order status element
+2025-09-29 17:26:28,536 - INFO - Screenshot saved: order_tracking_1759152387.png
+2025-09-29 17:26:28,538 - INFO - Results saved to: order_tracking_20250929_172628.json
+2025-09-29 17:26:29,151 - INFO - Browser driver closed
+2025-09-29 17:26:38,894 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:26:38,914 - INFO - Starting order tracking for order: CM0002233177
+2025-09-29 17:27:14,699 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:27:14,991 - INFO - Entered order number: CM0002233177
+2025-09-29 17:27:15,145 - INFO - Entered mobile number: 971563275635
+2025-09-29 17:27:21,944 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:27:21,959 - INFO - Starting order tracking for order: CM0002233177
+2025-09-29 17:27:27,065 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:27:33,251 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:27:34,630 - INFO - Entered order number: CM0002233177
+2025-09-29 17:27:34,975 - INFO - Entered mobile number: 971563275635
+2025-09-29 17:27:40,383 - WARNING - Could not find order status element
+2025-09-29 17:27:41,371 - INFO - Screenshot saved: order_tracking_1759152460.png
+2025-09-29 17:27:41,376 - INFO - Results saved to: order_tracking_20250929_172741.json
+2025-09-29 17:27:41,774 - INFO - Browser driver closed
+2025-09-29 17:27:50,531 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:28:03,792 - WARNING - Could not find order status element
+2025-09-29 17:28:04,140 - INFO - Screenshot saved: order_tracking_1759152483.png
+2025-09-29 17:28:04,141 - INFO - Results saved to: order_tracking_20250929_172804.json
+2025-09-29 17:28:04,311 - INFO - Browser driver closed
+2025-09-29 17:28:48,225 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:28:48,232 - INFO - Starting order tracking for order: CM0002233177
+2025-09-29 17:28:55,002 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:28:55,354 - INFO - Entered order number: CM0002233177
+2025-09-29 17:28:55,447 - INFO - Entered mobile number: 63275635
+2025-09-29 17:29:08,844 - INFO - Clicked track order button (alternative selector)
+2025-09-29 17:29:11,883 - INFO - Found order status: Order status: 
+Delivered
+2025-09-29 17:29:12,371 - INFO - Screenshot saved: order_tracking_1759152551.png
+2025-09-29 17:29:12,373 - INFO - Results saved to: order_tracking_20250929_172912.json
+2025-09-29 17:29:12,659 - INFO - Browser driver closed
+2025-09-29 17:34:33,398 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:34:33,404 - INFO - Starting order tracking for order: CM0002233177
+2025-09-29 17:34:44,584 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:34:45,057 - INFO - Entered order number: CM0002233177
+2025-09-29 17:34:45,428 - INFO - Entered mobile number: 63275635
+2025-09-29 17:34:55,867 - ERROR - Could not find track button
+2025-09-29 17:34:55,867 - ERROR - Error tracking order: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(), 'Track')]"}
+  (Session info: chrome=140.0.7339.213); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   chromedriver                        0x00000001049f3274 cxxbridge1$str$ptr + 2882596
+1   chromedriver                        0x00000001049eb1a0 cxxbridge1$str$ptr + 2849616
+2   chromedriver                        0x0000000104515180 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73420
+3   chromedriver                        0x000000010455c4c4 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 365072
+4   chromedriver                        0x000000010459d6c8 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631828
+5   chromedriver                        0x0000000104550188 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315092
+6   chromedriver                        0x00000001049b6c54 cxxbridge1$str$ptr + 2635268
+7   chromedriver                        0x00000001049b9e6c cxxbridge1$str$ptr + 2648092
+8   chromedriver                        0x00000001049985d4 cxxbridge1$str$ptr + 2510724
+9   chromedriver                        0x00000001049ba718 cxxbridge1$str$ptr + 2650312
+10  chromedriver                        0x0000000104989d7c cxxbridge1$str$ptr + 2451244
+11  chromedriver                        0x00000001049d9dd4 cxxbridge1$str$ptr + 2779012
+12  chromedriver                        0x00000001049d9f54 cxxbridge1$str$ptr + 2779396
+13  chromedriver                        0x00000001049eadec cxxbridge1$str$ptr + 2848668
+14  libsystem_pthread.dylib             0x0000000184760c08 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018475bba8 thread_start + 8
+
+2025-09-29 17:34:55,869 - INFO - Results saved to: order_tracking_20250929_173455.json
+2025-09-29 17:34:56,380 - INFO - Browser driver closed
+2025-09-29 17:55:54,003 - INFO - Chrome WebDriver initialized successfully
+2025-09-29 17:55:54,007 - INFO - Starting order tracking for order: CM0002233177
+2025-09-29 17:56:29,537 - INFO - Navigated to du.ae order tracking page
+2025-09-29 17:56:29,952 - INFO - Entered order number: CM0002233177
+2025-09-29 17:56:30,073 - INFO - Entered mobile number: 63275635
+2025-09-29 17:56:37,260 - INFO - Clicked track order button
+2025-09-29 17:56:37,269 - INFO - Waiting for page to load...
+2025-09-29 17:56:47,284 - INFO - Wait completed, proceeding to capture results
+2025-09-29 17:56:47,341 - INFO - Found order status: Order status: 
+Delivered
+2025-09-29 17:56:47,964 - INFO - Screenshot saved: order_tracking_1759154207.png
+2025-09-29 17:56:47,976 - INFO - Data saved to separate file: order_data_20250929_175647.json
+2025-09-29 17:56:47,978 - INFO - Results saved to: order_tracking_20250929_175647.json
+2025-09-29 17:56:48,521 - INFO - Browser driver closed

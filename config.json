@@ -1,0 +1,16 @@
+{
+  "order_details": {
+    "order_number": "CM0002233177",
+    "mobile_number": "63275635"
+  },
+  "browser_settings": {
+    "headless": false,
+    "window_size": "1920,1080",
+    "wait_timeout": 10
+  },
+  "output_settings": {
+    "save_screenshots": true,
+    "save_results": true,
+    "log_level": "INFO"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "order_numbers": [
+    "CM0002233177",
+    "CM0002680507"
+  ],
+  "customer_numbers": [
+    "63275635",
+    "0561716359",
+    "971561716359"
+  ],
+  "settings": {
+    "headless": false,
+    "delay_between_orders": 2,
+    "output_csv": "batch_results.csv",
+    "progress_csv": "progress_results.csv"
+  }
+}
